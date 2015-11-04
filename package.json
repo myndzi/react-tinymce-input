@@ -24,8 +24,10 @@
   },
   "homepage": "https://github.com/HurricaneJames/react-tinymce-input",
   "dependencies": {
-    "react": "^0.13.3",
     "uuid": "^2.0.1"
+  },
+  "peerDependencies": {
+    "react": "^0.13.3||^0.14.0"
   },
   "devDependencies": {
     "babel": "^5.4.7",
